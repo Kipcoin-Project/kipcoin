@@ -27,7 +27,7 @@ Download the source code:
 git clone https://github.com/litecoin-project/litecoin
 ```
 
-## Building Litecoin Core
+## Building Kipcoin Core
 
 **Important**: Use `gmake` (the non-GNU `make` will exit with an error).
 

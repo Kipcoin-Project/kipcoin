@@ -30,7 +30,7 @@ git clone https://github.com/litecoin-project/litecoin
 
 See [dependencies.md](dependencies.md) for a complete overview.
 
-### Building Litecoin Core
+### Building Kipcoin Core
 
 **Important**: Use `gmake` (the non-GNU `make` will exit with an error).
 
