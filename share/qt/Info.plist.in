@@ -38,7 +38,7 @@
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.litecoin.Kipcoin-Qt</string>
+  <string>org.kipcoin.Kipcoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,10 +46,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.litecoin.KipcoinPayment</string>
+      <string>org.kipcoin.KipcoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>litecoin</string>
+        <string>kipcoin</string>
       </array>
     </dict>
   </array>
@@ -58,7 +58,7 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.litecoin.paymentrequest</string>
+      <string>org.kipcoin.paymentrequest</string>
       <key>UTTypeDescription</key>
       <string>Kipcoin payment request</string>
       <key>UTTypeConformsTo</key>
@@ -68,10 +68,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-litecoin-payment-request</string>
+        <string>application/x-kipcoin-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>litecoinpaymentrequest</string>
+          <string>kipcoinpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.litecoin.paymentrequest</string>
+        <string>org.kipcoin.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

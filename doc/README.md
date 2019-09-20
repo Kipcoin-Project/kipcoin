@@ -5,7 +5,7 @@ Setup
 ---------------------
 Kipcoin Core is the original Kipcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Kipcoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Kipcoin Core, visit [litecoin.org](https://litecoin.org).
+To download Kipcoin Core, visit [kipcoin.org](https://kipcoin.org).
 
 Running
 ---------------------
@@ -15,12 +15,12 @@ The following are some helpful notes on how to run Kipcoin Core on your native p
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/kipcoin-qt` (GUI) or
+- `bin/kipcoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run kipcoin-qt.exe.
 
 ### macOS
 
@@ -28,10 +28,10 @@ Drag Kipcoin Core to your applications folder, and then run Kipcoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Kipcoin Wiki](https://litecoin.info/)
+* See the documentation at the [Kipcoin Wiki](https://kipcoin.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [KipcoinTalk](https://litecointalk.io/) forums.
+* Ask for help on [#kipcoin](http://webchat.freenode.net?channels=kipcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=kipcoin).
+* Ask for help on the [KipcoinTalk](https://kipcointalk.io/) forums.
 
 Building
 ---------------------
@@ -62,8 +62,8 @@ The Kipcoin repo's [root README](/README.md) contains relevant information on th
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [KipcoinTalk](https://litecointalk.io/) forums.
-* Discuss general Kipcoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev).
+* Discuss on the [KipcoinTalk](https://kipcointalk.io/) forums.
+* Discuss general Kipcoin development on #kipcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=kipcoin-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

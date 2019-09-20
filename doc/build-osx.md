@@ -41,10 +41,10 @@ from the root of the repository.
 Build Kipcoin Core
 ------------------------
 
-1. Clone the Kipcoin Core source code and cd into `litecoin`
+1. Clone the Kipcoin Core source code and cd into `kipcoin`
 
-        git clone https://github.com/litecoin-project/litecoin
-        cd litecoin
+        git clone https://github.com/kipcoin-project/kipcoin
+        cd kipcoin
 
 2.  Build Kipcoin Core:
 
@@ -70,22 +70,22 @@ Build Kipcoin Core
 
     or
 
-        cd ~/litecoin/src
-        cp litecoind /usr/local/bin/
-        cp litecoin-cli /usr/local/bin/
+        cd ~/kipcoin/src
+        cp kipcoind /usr/local/bin/
+        cp kipcoin-cli /usr/local/bin/
 
 Running
 -------
 
-Kipcoin Core is now available at `./src/litecoind`
+Kipcoin Core is now available at `./src/kipcoind`
 
 Before running, it's recommended that you create an RPC configuration file.
 
-    echo -e "rpcuser=litecoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Kipcoin/litecoin.conf"
+    echo -e "rpcuser=kipcoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Kipcoin/kipcoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Kipcoin/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Kipcoin/kipcoin.conf"
 
-The first time you run litecoind, it will start downloading the blockchain. This process could take several hours.
+The first time you run kipcoind, it will start downloading the blockchain. This process could take several hours.
 
 You can monitor the download process by looking at the debug.log file:
 
@@ -94,9 +94,9 @@ You can monitor the download process by looking at the debug.log file:
 Other commands:
 -------
 
-    ./src/litecoind -daemon # Starts the litecoin daemon.
-    ./src/litecoin-cli --help # Outputs a list of command-line options.
-    ./src/litecoin-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/kipcoind -daemon # Starts the kipcoin daemon.
+    ./src/kipcoin-cli --help # Outputs a list of command-line options.
+    ./src/kipcoin-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Notes
 -----

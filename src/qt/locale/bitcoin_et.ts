@@ -370,12 +370,12 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Loo maksepäring (genereerib QR koodid ja litecoini: URId)</translation>
+        <source>Request payments (generates QR codes and kipcoin: URIs)</source>
+        <translation>Loo maksepäring (genereerib QR koodid ja kipcoini: URId)</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Ava litecoini: URI või maksepäring</translation>
+        <source>Open a kipcoin: URI or payment request</source>
+        <translation>Ava kipcoini: URI või maksepäring</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

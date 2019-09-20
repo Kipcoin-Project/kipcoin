@@ -1,20 +1,20 @@
 Kipcoin Core version 0.13.3 is now available from:
 
-  <https://download.litecoin.org/litecoin-0.13.3/>
+  <https://download.kipcoin.org/kipcoin-0.13.3/>
 
 This is a new minor version release, including new features, various bugfixes and performance improvements.
 It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/litecoin-project/litecoin/issues>
+  <https://github.com/kipcoin-project/kipcoin/issues>
 
 Compatibility
 ==============
 
 Microsoft ended support for Windows XP on [April 8th, 2014](https://www.microsoft.com/en-us/WindowsForBusiness/end-of-xp-support),
 an OS initially released in 2001. This means that not even critical security
-updates will be released anymore. Without security updates, using a litecoin
+updates will be released anymore. Without security updates, using a kipcoin
 wallet on a XP machine is irresponsible at least.
 
 In addition to that, with 0.12.x there have been varied reports of Bitcoin Core
@@ -61,10 +61,10 @@ Testnet3 has been deprecated and replaced with Testnet4. The server port has bee
 the same (19332).
 
 Testnet faucets can be located at:
-- http://testnet.litecointools.com
+- http://testnet.kipcointools.com
 - http://testnet.thrasher.io
 
-Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/litecoin-project/litecoin/blob/0.13/src/chainparams.cpp#L214).
+Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/kipcoin-project/kipcoin/blob/0.13/src/chainparams.cpp#L214).
 
 Credits
 =======

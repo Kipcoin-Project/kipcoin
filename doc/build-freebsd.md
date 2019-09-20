@@ -2,7 +2,7 @@ FreeBSD build guide
 ======================
 (updated for FreeBSD 11.1)
 
-This guide describes how to build litecoind and command-line utilities on FreeBSD.
+This guide describes how to build kipcoind and command-line utilities on FreeBSD.
 
 This guide does not contain instructions for building the GUI.
 
@@ -24,7 +24,7 @@ See [dependencies.md](dependencies.md) for a complete overview.
 
 Download the source code:
 ```
-git clone https://github.com/litecoin-project/litecoin
+git clone https://github.com/kipcoin-project/kipcoin
 ```
 
 ## Building Kipcoin Core
