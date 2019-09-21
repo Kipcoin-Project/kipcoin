@@ -1,7 +1,7 @@
 Kipcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/kipcoin-project/kipcoin.svg?branch=master)](https://travis-ci.org/kipcoin-project/kipcoin)
+[![Build Status](https://travis-ci.org/Kipcoin-project/kipcoin.svg?branch=master)](https://travis-ci.org/Kipcoin-project/kipcoin)
 
 http://kipcoin.org
 
