@@ -15,7 +15,7 @@ out collectively by the network. Kipcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Kipcoin Core software, see [https://kipcoin.org](https://kipcoin.org).
+the Kipcoin Core software, see [http://kipcoin.org](https://kipcoin.org).
 
 License
 -------
