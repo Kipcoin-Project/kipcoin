@@ -80,4 +80,4 @@ pull from Transifex would automatically overwrite them again.
 
 
 Downloads:
-[https://github.com/Kipcoin-Project/kipcoin/releases/]
+[https://github.com/Kipcoin-Project/kipcoin/releases](https://kipcoin.org)
