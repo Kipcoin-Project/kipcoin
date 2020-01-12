@@ -156,16 +156,16 @@ public:
             {
                
                 {  0, uint256S("0xedddb73df332b8fbc8f7ca04cf40ebf2ebf6197e67f138aba240d9e8281b6dac")},
-/*
-                {  1500, uint256S("0x841a2965955dd288cfa707a755d05a54e45f8bd476835ec9af4402a2b59a2967")},
-                {  4032, uint256S("0x9ce90e427198fc0ef05e5905ce3503725b80e26afd35a987965fd7e3d9cf0846")},
-                {  8064, uint256S("0xeb984353fc5190f210651f150c40b8a4bab9eeeff0b729fcb3987da694430d70")},
-@@ -161,15 +163,16 @@ class CMainParams : public CChainParams {
+
+                {  1500, uint256S("0x8d47157ddb0e8f4ca0bbfd47a6b1f43f5839e7a890dfcf3cddecda51cd97f99f")},
+                {  4032, uint256S("0x32975fa19c0aec82dadddec7e86d79a5f29f2ae2744588a94ae98e6fea3da97d")},
+                {  8064, uint256S("0x3c99028ea6c8f731cc421aae962fe924427cebab6c4d3e2c47cd0f8929542489")},
+/**@@ -161,15 +163,16 @@ class CMainParams : public CChainParams {
                 {456000, uint256S("0xbf34f71cc6366cd487930d06be22f897e34ca6a40501ac7d401be32456372004")},
                 {638902, uint256S("0x15238656e8ec63d28de29a8c75fcf3a5819afc953dcd9cc45cecc53baec74f38")},
                 {721000, uint256S("0x198a7b4de1df9478e2463bd99d75b714eab235a2e63e741641dc8a759a9840e5")},
-*/
-            }
+
+            }**/
         };
 
         chainTxData = ChainTxData{
