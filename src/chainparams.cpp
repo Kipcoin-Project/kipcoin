@@ -164,9 +164,10 @@ public:
                
                 {  0, uint256S("0xedddb73df332b8fbc8f7ca04cf40ebf2ebf6197e67f138aba240d9e8281b6dac")},
 
-                {  1500, uint256S("0x8d47157ddb0e8f4ca0bbfd47a6b1f43f5839e7a890dfcf3cddecda51cd97f99f")},
+             /**   {  1500, uint256S("0x8d47157ddb0e8f4ca0bbfd47a6b1f43f5839e7a890dfcf3cddecda51cd97f99f")},
                 {  4032, uint256S("0x32975fa19c0aec82dadddec7e86d79a5f29f2ae2744588a94ae98e6fea3da97d")},
                 {  8064, uint256S("0x3c99028ea6c8f731cc421aae962fe924427cebab6c4d3e2c47cd0f8929542489")},
+                **/
                
 /**@@ -161,15 +163,16 @@ class CMainParams : public CChainParams {
                 {456000, uint256S("0xbf34f71cc6366cd487930d06be22f897e34ca6a40501ac7d401be32456372004")},
